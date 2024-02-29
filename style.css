@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-decoration: wavy;
+}
+div{
+    height: 150px;
+    background-color: bisque;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+.post{
+    color: rgb(17, 16, 16);
+}
+.user{
+    font-weight: 600 ;
+    font-style: italic;
+}
+.content{
+    color: brown;
+}
